@@ -1,4 +1,4 @@
-# Battleship Game
+# Python Battleship Game 
 
 # This is a battle ship game that can be played from the
 # python shell.
